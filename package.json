@@ -1,0 +1,15 @@
+{
+  "name": "shortcuts-vconsole",
+  "version": "1.0.0",
+  "description": "iOS shortcuts to inject vConsole to pages",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArvinH",
+  "license": "MIT",
+  "dependencies": {
+    "@joshfarrant/shortcuts-js": "^0.6.0"
+  }
+}
